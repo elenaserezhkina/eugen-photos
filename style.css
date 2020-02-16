@@ -1,10 +1,16 @@
 .photogrid {
   width: 90%;
   margin: 0 auto;
-  border: 1px solid grey;
 }
 
 .navbar {
   width: 90%;
   margin: 0 auto;
+  background-color: white;
+}
+.logo-img {
+  width: 90px;
+}
+.navbar-light .navbar-nav .active > .nav-link {
+  color: #f2622e;
 }
